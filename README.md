@@ -9,7 +9,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-<img width="351" alt="Screen Shot 2020-02-10 at 4 00 38 PM" src="https://user-images.githubusercontent.com/13024871/74194223-7ee6b480-4c1e-11ea-86c4-5a0a2be377d6.png">
+<img src
 
 # Header 1
 ## Header 2
@@ -34,5 +34,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-If you have any questions about anything you read on this website. Our contact information can be found at the following website. https://www.randomlists.com/email-addresses
+If you have any questions about anything you read on this website. Our contact information can be found at the following website. [Email](https://www.randomlists.com/email-addresses)
 
