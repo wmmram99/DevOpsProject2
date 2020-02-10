@@ -1,8 +1,6 @@
 ## Welcome to Group 4's Project Page!
 
-You can use the [editor on GitHub](https://github.com/wmmram99/DevOpsProject2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The purpose of this project is to learn how to use github pages. This is our first attempt/website.
 
 ### Markdown
 
