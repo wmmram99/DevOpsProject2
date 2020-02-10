@@ -9,7 +9,7 @@ The purpose of this project and this page was to allow us to use GitHub to work 
 ```markdown
 Syntax highlighted code block
 
-<img src
+<img src=https://user-images.githubusercontent.com/13024871/74194223-7ee6b480-4c1e-11ea-86c4-5a0a2be377d6.png>
 
 # Header 1
 ## Header 2
