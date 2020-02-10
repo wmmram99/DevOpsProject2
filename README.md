@@ -1,10 +1,8 @@
 ## Group 4's Project Page!
 
-You can use the [editor on GitHub](https://github.com/wmmram99/DevOpsProject2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is Group 4's Website Home Page for Project 4!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Purpose
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
