@@ -1,4 +1,4 @@
-##Group 4's Project Page!
+## Group 4's Project Page!
 
 You can use the [editor on GitHub](https://github.com/wmmram99/DevOpsProject2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
