@@ -2,7 +2,7 @@
 
 This is Group 4's Website Home Page for Project 4!
 
-![Green Cat](link-to-image)
+![Green Cat](https://github.com/wmmram99/DevOpsProject2/issues/5#issue-562854967)
 
 ### Purpose
 
