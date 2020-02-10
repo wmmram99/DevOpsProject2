@@ -34,5 +34,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-If you have any questions about anything you read on this website. Our contact information can be found at the following website. [Email](https://www.randomlists.com/email-addresses)
+If you have any questions about anything you read on this website, good luck getting help! There is a small chance one of our emails may pop up on this list so happy guessing! :)  [Email](https://www.randomlists.com/email-addresses)
 
