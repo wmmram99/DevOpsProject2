@@ -2,6 +2,8 @@
 
 This is Group 4's Website Home Page for Project 4!
 
+![Green Cat](link-to-image)
+
 ### Purpose
 
 The purpose of this project and this page was to allow us to use GitHub to work together to create this page.
