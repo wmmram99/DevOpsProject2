@@ -2,7 +2,7 @@
 
 This is Group 4's Website Home Page for Project 4!
 
-![Green Cat](https://github.com/wmmram99/DevOpsProject2/issues/5#issue-562854967)
+![Green Cat](<img width="351" alt="Screen Shot 2020-02-10 at 4 00 38 PM" src="https://user-images.githubusercontent.com/13024871/74194223-7ee6b480-4c1e-11ea-86c4-5a0a2be377d6.png">)
 
 ### Purpose
 
