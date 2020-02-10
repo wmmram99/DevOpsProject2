@@ -1,4 +1,4 @@
-## Welcome to Group 4's Project Page!
+##Group 4's Project Page!
 
 The purpose of this project is to learn how to use github pages. This is our first attempt/website.
 
