@@ -28,7 +28,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more information please reach out to me at this number 6457826989.
 
 ### Fun Fact
 
