@@ -30,9 +30,9 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Fun Fact
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wmmram99/DevOpsProject2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Over 3.8 billion people use the internet today, which is 40% of the world's population.
 
 ### Support or Contact
 
