@@ -1,6 +1,6 @@
 ## Group 4's Project Page!
 
-This is Group 4's Website Home Page for Project 4!
+This is Group 4's Website Home Page for Project 2!
 
 ![Green Cat](https://user-images.githubusercontent.com/13024871/74194223-7ee6b480-4c1e-11ea-86c4-5a0a2be377d6.png)
 
