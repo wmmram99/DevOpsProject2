@@ -6,7 +6,7 @@ This is Group 4's Website Home Page for Project 4!
 
 ### Purpose
 
-The purpose of this project and this page was to allow us to use GitHub to work together to create this page.
+The purpose of this project is to familiarize each other with the functions and collaboration tools that GitHub provides.
 
 ```markdown
 Syntax highlighted code block
