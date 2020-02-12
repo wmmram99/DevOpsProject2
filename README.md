@@ -12,7 +12,7 @@ The purpose of this project is to familiarize each other with the functions and 
 
 
 ### Fun Fact
-Armadillo shells are bulletproof
+A honey bee can fly at 15 mph. PogChamp
 
 ### Fun Fact
 
