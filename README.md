@@ -16,19 +16,8 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more information please reach out to me at this number 64578269893892759234759023475932750.
+### Fun Fact
+Armadillos are bulletproof
 
 ### Fun Fact
 
