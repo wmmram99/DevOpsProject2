@@ -13,11 +13,9 @@ Syntax highlighted code block
 
 <img src=https://user-images.githubusercontent.com/13024871/74194223-7ee6b480-4c1e-11ea-86c4-5a0a2be377d6.png>
 
-# Header 1
-## Header 2
-### Header 3
+
 ### Fun Fact
-Armadillos are bulletproof
+Armadillo shells are bulletproof
 
 ### Fun Fact
 
